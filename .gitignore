@@ -1,2 +1,4 @@
 /therapy-service/.next
 /therapy-service/node_modules
+caps-backend/.env
+/caps-backend/node_modules
